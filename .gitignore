@@ -67,3 +67,4 @@ genrst/
 # MacOS desktop metadata files
 ######################
 .DS_Store
+ports/esp32/modules/embit
