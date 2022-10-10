@@ -5,5 +5,5 @@ set(SDKCONFIG_DEFAULTS
     boards/sdkconfig.usb
     boards/sdkconfig.spiram_sx
     boards/sdkconfig.240mhz
-    boards/GENERIC_S2/sdkconfig.board
+    boards/SAOLA_1R/sdkconfig.board
 )
